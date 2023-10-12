@@ -7,25 +7,25 @@ Project was designed to address the food ordering process in hotels.
 **Options for operations- User can choose any option.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/20f9b9de-c6ed-4b12-aaef-b4a8172859b8)
 
-**Adding new dishes- User can make his/her new menu card by inserting dish name, price 
+**Adding new dishes- User can make his/her new menu card by inserting dish number, name and price. 
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/ea985f33-1a61-476c-a8a6-e0b8f476b439)
 
-**View menu-
+**View menu- User can view the menu card to order.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/f1cae394-48e5-4967-b590-4532efe537a9)
 
-**Inserting new dish-
+**Inserting new dish- User can insert new dishes anytime.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/4b48c28f-1e73-4194-851c-2102b45cf881)
 
-**Deleting a dish-
+**Deleting a dish- User can existing delete dishes when it is not available at a particular time.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/9ac170c0-c369-43bc-af17-f328866ecef2)
 
-**Modifying a dish (name/price)-
+**Modifying a dish (name/price)- User can modify any dish name/price.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/c1e6c0a9-40e9-4ffe-8590-4ac5c2c57fcb)
 
-**Placing order-
+**Placing order- User can place an order by giving the dish number and the quantity.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/5069c0fa-dcc8-4cbd-90d8-d2f68269d7b2)
 
-**Generated Bill-
+**Generated Bill- After ordering, the total bill will be generated according to it.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/ea9be2be-8224-4fae-8442-88f14bfd4225)
 
 
