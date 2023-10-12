@@ -4,10 +4,10 @@ Project was designed to address the food ordering process in hotels.
   1. For creating menu card, inserting new dishes, modifying and deleting dishes.
   2. For placing the order and generating bill.
 
-**Options for operations-
+**Options for operations- User can choose any option.
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/20f9b9de-c6ed-4b12-aaef-b4a8172859b8)
 
-**Adding new dishes-
+**Adding new dishes- User can make his/her new menu card by inserting dish name, price 
 ![image](https://github.com/ishita0302/Restaurant-Management/assets/114524123/ea985f33-1a61-476c-a8a6-e0b8f476b439)
 
 **View menu-
